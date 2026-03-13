@@ -14,7 +14,7 @@ Current Work
 - Building a reproducible ML pipeline system
 - Research assistant working on land-use segmentation with remote sensing
 
-Technical Stack
+Technical Stack  
 Python • Distributed Systems • PyTorch • FastAPI • PostgreSQL • Redis • Docker
 
 Contact
