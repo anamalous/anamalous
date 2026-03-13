@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ananya Prabhu — Research Engineering Student
 
-<!--
-**anamalous/anamalous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student and research aspirant exploring  
+reliable infrastructure for machine learning systems and remote sensing pipelines.
 
-Here are some ideas to get you started:
+Research Interests
+- Ethical AI
+- Remote Sensing
+- Distributed systems
+- ML infrastructure
+- Reproducibility in machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Work
+- Building a reproducible ML pipeline system
+- Research assistant working on land-use segmentation with remote sensing
+
+Technical Stack
+Python • Distributed Systems • PyTorch • FastAPI • PostgreSQL • Redis • Docker
+
+Contact
+aprabhu1020@gmail.com 
