@@ -1,4 +1,4 @@
-# Ananya Prabhu — Research Engineering Student
+# Ananya Prabhu — ML Research and System Design Student
 
 MCA student and research aspirant exploring  
 reliable infrastructure for machine learning systems and remote sensing pipelines.
